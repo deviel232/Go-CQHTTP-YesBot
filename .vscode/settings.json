@@ -1,3 +1,10 @@
-{
+{https://api.lolicon.app/setu/v2?tag=萝莉|少女&tag=白丝|黑丝
 	"python.pythonPath": "C:\\Users\\86175\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+}Content-Type: application/json
+
+{
+  "tag": [
+    ["萝莉", "少女"],
+    ["白丝", "黑丝"],
+  ]
 }
